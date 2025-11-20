@@ -16,4 +16,5 @@ Kişisel portfolio sitem. Modern, sade ve responsive bir tasarımla hazırlandı
 (Deploy ettikten sonra buraya link ekleyeceksin.)
 
 ---
-© 2025 Azra Tuğçe
+© 2025 Azra Nisa Tuğ
+
